@@ -1,0 +1,32 @@
+{
+    "projects": [
+      {
+        "name": "Calculator using reactjs",
+        "description": "basic Calculator nothing else",
+        "techStack": ["React", "Tailwind CSS", "JavaScript"],
+        "links": {
+          "github": "https://github.com/DragonFistN2003/Calc",
+          "liveDemo": "https://yourportfolio.com"
+        }
+      },
+      {
+        "name": "finshark",
+        "description": "A full-stack financial application with authentication that shows companies with their portfolios",
+        "techStack": ["asp.net" ," SQL", " React"],
+        "links": {
+          "github": "https://github.com/DragonFistN2003/finsharkproj",
+          "liveDemo": "https://taskmanagerapp.com"
+        }
+      },
+      {
+        "name": "Game Store",
+        "description": "an asp.net project that shows some info about specific games and it doesnt deal with api",
+        "techStack": ["asp.net core"],
+        "links": {
+          "github": "https://github.com/DragonFistN2003/GameStore",
+          "liveDemo": "https://weatherdashboard.com"
+        }
+      }
+    ]
+  }
+  
